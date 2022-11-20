@@ -1,6 +1,6 @@
+![BotShare_UI_scheme](https://user-images.githubusercontent.com/48450527/202912581-200a78c9-9261-48a2-ab1c-87aec058c64c.jpg)
 
-
-## Nodes
+## Files
 
 **button_handler.py** - Data processing of buttons, reaction of the robot system to pressing buttons on the UI (launching launch files, etc.)
 
@@ -8,7 +8,7 @@
 
 **index.js** - The main file for processing a web page, processing buttons, displaying information, reading and setting velocity.
 
-nav2d.js - The file where the room map is processed, the route points on the map are set, the current position of the robot is displayed on the map.
+**nav2d.js** - The file where the room map is processed, the route points on the map are set, the current position of the robot is displayed on the map.
 
 
 ## Topics
